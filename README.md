@@ -1,9 +1,9 @@
 # Project: Three-stage FMD diet effect on aging 
 ## Milestones: 
 
-1. Concept definition and literature review (2 weeks) 
+1. Concept definition and literature review (3 weeks) 
 
-2. Extract CPG sites which are indicative of biological aging using the Horvath and GKM age (2 weeks) 
+2. Extract CPG sites which are indicative of biological aging using the Horvath and GKM age and compare to those found in literature (2 weeks) 
 
 3. Train model dependent on lifestyle characteristics (smoking, alcohol consumption, and more) and the biomarkers found for aging in step 1 (3 weeks) 
 
