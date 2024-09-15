@@ -1,1 +1,7 @@
 *.csv
+*
+
+# But not these files...
+!.gitignore
+!*.ipynb
+!plots/
