@@ -16,3 +16,18 @@
 - Once you have run cfffprize_buchinger.ipynb go back to running the last section of kaggle_training.ipynb to get the Buchinger ages. 
 
 - Finally, you can now run the last section of exploratory_analysis.ipynb. 
+
+## Dependencies
+
+| Library        | Version  |
+|----------------|----------|
+| pandas         | 2.2.3    |
+| numpy          | 1.26.1   |
+| scipy          | 1.11.2   |
+| matplotlib     | 3.7.2    |
+| scikit-learn   | 1.3.0    |
+| seaborn        | 0.12.2   |
+| csv            | 1.0      |
+| cycler         | 0.10.0   |
+| joblib         | 1.3.2    |
+| json           | 2.0.9    |
